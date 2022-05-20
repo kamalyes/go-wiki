@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "contributorsPerLine": 7,
+  "contributorsSortAlphabetically": false,
+  "skipCi": true,
+  "contributors": [
+    {
+      "login": "kamalyes",
+      "name": "kamalyes",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/19726268?v=4",
+      "profile": "https://kamalyes.com",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "projectName": "go-wiki",
+  "projectOwner": "kamalyes",
+  "repoType": "github",
+  "repoHost": "https://github.com"
+}
